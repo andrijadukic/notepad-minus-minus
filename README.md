@@ -1,6 +1,6 @@
 # Notepad--
 
-![notepad--](docs/notepad-minus-minus.png)
+![notepad--](docs/notepad-minus-minus.PNG)
 
 A fully-functional, albeit not particularly feature-rich or efficient text editor.
 Notepad-- is built from scratch in plain Java with no external dependencies, as an exercise in
