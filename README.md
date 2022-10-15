@@ -1,7 +1,7 @@
 # Notepad--
 
 <p align="center">
-<img src="docs/notepad-minus-minus.PNG" alt="notepad--" width="300"/>
+<img src="docs/notepad-minus-minus.PNG" alt="notepad--" width="500"/>
 </p>
 
 A fully-functional, albeit not particularly feature-rich or efficient text editor.
